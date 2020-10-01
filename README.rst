@@ -1,7 +1,7 @@
 ==================
 wxPython "Classic"
 ==================
-
+#hello all this is a python project
 This is the source tree for wxPython, a set of wrapper modules that enable
 the use of wxWidgets from the Python language. This is the "Classic" or
 legacy verson of wxPython, **ALL** new development is happening in the `"Phoenix"
@@ -11,3 +11,4 @@ of the foundation of wxPython.
 See docs/BUILD.txt for build instructions.
 
 .. __: https://github.com/wxWidgets/Phoenix
+#thanks for reading
